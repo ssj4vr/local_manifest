@@ -27,5 +27,5 @@
     <project path="vendor/cm" name="ssj4vr/android_vendor_cm" />
 
     <!-- Track ThemeInterfacer -->
-    <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
+    <project path="packages/services/ThemeInterfacer" name="ResurrectionRemix/packages_services_ThemeInterfacer" remote="github" />
 </manifest>
